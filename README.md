@@ -98,7 +98,7 @@ Note: This tool *can* split plasmids into their own membership group. You should
 
 ## Requirements
 Please see [installation instructions](#installation) for details. But:
-- python=3.13.7
+- conda or mamba
 - Kraken 2=2.0.7-beta
     - Kraken 2 database
 - TaxonKit=0.20.0
