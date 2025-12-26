@@ -1,0 +1,181 @@
+input_filename	contig	membership	contig_length	kingdom	phylum	class	order	family	genus	species
+SAMN46829665	1	1	621944	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	2	1	471132	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	3	1	382027	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Listeria	
+SAMN46829665	6	1	337753	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Listeria	
+SAMN46829665	8	1	307174	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	9	1	279196	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	Bacillus subtilis
+SAMN46829665	16	1	209128	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	19	1	187808	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Alkalihalophilus	Alkalihalophilus pseudofirmus OF4
+SAMN46829665	21	1	144719	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	22	1	134820	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Listeria	
+SAMN46829665	25	1	122653	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	26	1	119024							
+SAMN46829665	27	1	110940	Bacteria	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonas	Aeromonas sp. Ne-1
+SAMN46829665	31	1	101043	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	Bacillus subtilis
+SAMN46829665	35	1	96602	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	39	1	85286							
+SAMN46829665	41	1	83516	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Cytobacillus	Cytobacillus oceanisediminis 2691
+SAMN46829665	42	1	81468	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	Bacillus cereus
+SAMN46829665	45	1	75933	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Listeria	
+SAMN46829665	46	1	75832	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	47	1	72371	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	49	1	70347	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	50	1	68153	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Listeria	
+SAMN46829665	52	1	67473	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	53	1	63686	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	54	1	63078	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	55	1	62843	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	59	1	59672	Eukaryota	Opisthokonta	Metazoa	Eumetazoa	Bilateria	Chordata	Vertebrata
+SAMN46829665	62	1	57519	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales		
+SAMN46829665	64	1	53870	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	70	1	42870	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	71	1	38886	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	72	1	38369	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	77	1	32755	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Staphylococcus	
+SAMN46829665	85	1	24478	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Cytobacillus	
+SAMN46829665	86	1	23914	Eukaryota						
+SAMN46829665	87	1	21389	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	89	1	20448	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	
+SAMN46829665	92	1	15916							
+SAMN46829665	93	1	15007	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	98	1	10998	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Paenisporosarcina	
+SAMN46829665	99	1	10697	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	110	1	6229	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	115	1	5096	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	119	1	4369	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	129	1	2479	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Anoxybacteroides	
+SAMN46829665	132	1	2313	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	137	1	1968	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	139	1	1785							
+SAMN46829665	140	1	1778	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Peribacillus	
+SAMN46829665	148	1	1587	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Staphylococcus	
+SAMN46829665	149	1	1558	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales		
+SAMN46829665	152	1	1460							
+SAMN46829665	155	1	1398							
+SAMN46829665	156	1	1360	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	169	1	1188	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Cytobacillus	Cytobacillus oceanisediminis 2691
+SAMN46829665	175	1	1073	Eukaryota	Viridiplantae	Streptophyta	Streptophytina	Embryophyta	Euphyllophyta	Magnoliopsida
+SAMN46829665	176	1	1029	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	178	1	992							
+SAMN46829665	181	1	939	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	183	1	771	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	Bacillus cereus
+SAMN46829665	184	1	771	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	
+SAMN46829665	185	1	743	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	Priestia megaterium NCT-2
+SAMN46829665	189	1	671	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	Priestia megaterium NCT-2
+SAMN46829665	192	1	587	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Anoxybacteroides	
+SAMN46829665	195	1	551	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	199	1	530	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales		
+SAMN46829665	202	1	481	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	203	1	476	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	204	1	458							
+SAMN46829665	206	1	449	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	207	1	423	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillales Family XII. Incertae Sedis	Exiguobacterium mexicanum
+SAMN46829665	217	1	376	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	219	1	368	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales		
+SAMN46829665	222	1	356	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	Priestia megaterium NCT-2
+SAMN46829665	229	1	330							
+SAMN46829665	230	1	328							
+SAMN46829665	233	1	321	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	Priestia megaterium NCT-2
+SAMN46829665	234	1	314	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	Priestia megaterium NCT-2
+SAMN46829665	236	1	299	Bacteria						
+SAMN46829665	252	1	267	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	
+SAMN46829665	266	1	218	Bacteria	Bacillati	Bacillota	Clostridia	Peptostreptococcales	Peptoclostridium	Peptoclostridium acidaminophilum DSM 3953
+SAMN46829665	270	1	205	Bacteria	Bacillati	Bacillota	Clostridia	Eubacteriales	Clostridium	Clostridium botulinum BKT015925
+SAMN46829665	271	1	201	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales		
+SAMN46829665	274	1	193	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Mesobacillus	
+SAMN46829665	275	1	186	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	276	1	185	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	280	1	180	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	281	1	179							
+SAMN46829665	282	1	177							
+SAMN46829665	285	1	172	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	289	1	168	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	294	1	158							
+SAMN46829665	298	1	150	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Staphylococcus	
+SAMN46829665	301	1	142	Bacteria	Bacillati	Bacillota	Bacilli			
+SAMN46829665	302	1	141							
+SAMN46829665	303	1	141							
+SAMN46829665	308	1	136	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	309	1	136	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	310	1	134							
+SAMN46829665	311	1	134	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	314	1	131	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	317	1	127	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	320	1	123	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales		
+SAMN46829665	321	1	121	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Priestia	Priestia megaterium NCT-2
+SAMN46829665	322	1	121							
+SAMN46829665	324	1	119							
+SAMN46829665	325	1	119	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Bacillus	
+SAMN46829665	327	1	118							
+SAMN46829665	328	1	117	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	329	1	114							
+SAMN46829665	332	1	110	Bacteria	Bacillati	Bacillota	Bacilli	Bacillales	Niallia	
+SAMN46829665	337	1	105							
+SAMN46829665	340	1	103							
+SAMN46829665	342	1	100							
+SAMN46829665	344	1								
+SAMN46829665	345	1								
+SAMN46829665	348	1								
+SAMN46829665	349	1								
+SAMN46829665	352	1								
+SAMN46829665	353	1								
+SAMN46829665	354	1								
+SAMN46829665	355	1								
+SAMN46829665	360	1								
+SAMN46829665	362	1								
+SAMN46829665	364	1								
+SAMN46829665	365	1								
+SAMN46829665	369	1								
+SAMN46829665	373	1								
+SAMN46829665	374	1								
+SAMN46829665	379	1								
+SAMN46829665	380	1								
+SAMN46829665	383	1								
+SAMN46829665	384	1								
+SAMN46829665	385	1								
+SAMN46829665	392	1								
+SAMN46829665	394	1								
+SAMN46829665	399	1								
+SAMN46829665	401	1								
+SAMN46829665	403	1								
+SAMN46829665	408	1								
+SAMN46829665	411	1								
+SAMN46829665	412	1								
+SAMN46829665	414	1								
+SAMN46829665	434	1								
+SAMN46829665	435	1								
+SAMN46829665	440	1								
+SAMN46829665	441	1								
+SAMN46829665	442	1								
+SAMN46829665	448	1								
+SAMN46829665	450	1								
+SAMN46829665	453	1								
+SAMN46829665	454	1								
+SAMN46829665	455	1								
+SAMN46829665	456	1								
+SAMN46829665	457	1								
+SAMN46829665	460	1								
+SAMN46829665	463	1								
+SAMN46829665	464	1								
+SAMN46829665	465	1								
+SAMN46829665	467	1								
+SAMN46829665	468	1								
+SAMN46829665	469	1								
+SAMN46829665	470	1								
+SAMN46829665	472	1								
+SAMN46829665	473	1								
+SAMN46829665	474	1								
+SAMN46829665	475	1								
+SAMN46829665	476	1								
+SAMN46829665	477	1								
+SAMN46829665	478	1								
+SAMN46829665	479	1								
+SAMN46829665	480	1								
+SAMN46829665	481	1								
+SAMN46829665	483	1								
+SAMN46829665	492	1								
+SAMN46829665	495	1								
+SAMN46829665	497	1								
+SAMN46829665	510	1								
+SAMN46829665	511	1								
