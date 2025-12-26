@@ -1,5 +1,5 @@
 # separate_contaminated_assembly_graphs
-Script which split assembly graphs into membership groups by taxon. This allows you to decontaminate multi-species assembly graphs into species-specific sub-graphs and assemblies. Will give you seperate `.gfa` and `.fasta` files for each taxa within your contaminated `.gfa` file. You decide the taxonomic level (`"kingdom", "phylum", "class", "order", "family", "genus", "species"`) for which to separate your assemblies.
+Script which split assembly graphs into membership groups by taxon. This allows you to automate decontamination of multi-species assembly graphs into species-specific sub-graphs and assemblies. Will give you seperate `.gfa` and `.fasta` files for each taxa within your contaminated `.gfa` file. You decide the taxonomic level (`"kingdom", "phylum", "class", "order", "family", "genus", "species"`) for which to separate your assemblies.
 
 <img src="images/SAMN46829665.png" width="500" height="500">
 
